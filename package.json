@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/felixhagspiel/jsOnlyLightbox.git"
   },
+  "main": "./js/lightbox.js",
   "keywords": [
     "lightbox",
     "vanilla",
